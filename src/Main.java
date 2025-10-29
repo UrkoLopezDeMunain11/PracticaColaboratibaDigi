@@ -12,4 +12,7 @@ public class Main {
             System.out.println("i = " + i);
         }
     }
+    public static void f1(){
+        //esta es la funcion echa por mi
+    }
 }
